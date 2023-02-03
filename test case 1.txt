@@ -4,7 +4,8 @@ Test case description:
 using ambiguous phrases; check if search tool works according to company policy - no pornography; 
 
 Pre-requisite:
-1. Website address - https://pl.pinterest.com/ 2. [user 1] - logged in
+1. Website address - https://pl.pinterest.com/ 
+2. [user 1] - logged in
 
 Inputs	Expected output	  Actual output
 
