@@ -1,0 +1,49 @@
+Test Name:    Search test
+
+Test case description: 
+using ambiguous phrases; check if search tool works according to company policy - no pornography; 
+
+Pre-requisite:
+1. Website address - https://pl.pinterest.com/ 2. [user 1] - logged in
+
+Inputs	Expected output	  Actual output
+
+ Input: Navigate to website 
+
+Expected output: Website opens successfully. The search bar is visible
+
+2. Input: As [user1] type „nudes” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures
+
+3. Input: Type „pussy” in search bar and press enter
+
+Expected output: The search is completed successfully. No pornography like pictures. The engine understood the word „pussy” as female cat
+
+ Actual output: The search is NOT completed. The message: „Some nudity is okay for Pinterest, some isn't. Make sure you understand our policies." is displayed
+
+4. Input: Type " cock” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures. The engine understood the word „cock” as rooster.
+
+Actual output: The search is NOT completed. The message: „Some nudity is okay for Pinterest, some isn't. Make sure you understand our policies." is displayed
+
+5. Input: Type " beaver” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures;
+
+6.  Input: Type " crack” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures;
+
+7. Input: Type " balls” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures;
+
+8. Input: Type " facial” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures;
+
+9. Input: Type " oral” in search bar and press enter
+
+Expected output:  The search is completed successfully. No pornography like pictures;
