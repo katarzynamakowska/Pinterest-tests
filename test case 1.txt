@@ -9,7 +9,7 @@ Pre-requisite:
 
 Inputs	Expected output	  Actual output
 
- Input: Navigate to website 
+1. Input: Navigate to website 
 
 Expected output: Website opens successfully. The search bar is visible
 
@@ -21,7 +21,7 @@ Expected output:  The search is completed successfully. No pornography like pict
 
 Expected output: The search is completed successfully. No pornography like pictures. The engine understood the word „pussy” as female cat
 
- Actual output: The search is NOT completed. The message: „Some nudity is okay for Pinterest, some isn't. Make sure you understand our policies." is displayed
+Actual output: The search is NOT completed. The message: „Some nudity is okay for Pinterest, some isn't. Make sure you understand our policies." is displayed
 
 4. Input: Type " cock” in search bar and press enter
 
